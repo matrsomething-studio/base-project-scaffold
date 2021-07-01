@@ -1,4 +1,4 @@
-# PROJECT-NAME-GOES-HERE
+# PROJECT-NAME-HERE
 ---
 **Trello Tracker:** (https://trello.com/)
 
